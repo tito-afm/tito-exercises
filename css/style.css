@@ -1,0 +1,101 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.idea-card {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    padding: 40px;
+   padding-left: 25%;
+    padding-right: 25%;
+    width: 100%;
+    font-family: "montserrat";
+    font-size: .8em;
+
+}
+
+hr {
+    width: 100%;
+    border: .5px solid red;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h3 {
+    font-weight: 50;
+    font-size: 1.5em;
+    text-indent: 2em;
+}
+
+img {
+    width: 100vw;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    
+}
+
+#not-a-robot {
+    width: 50%;
+    
+}
+
+#tableau1 {
+    width: 90%;
+    border: 1px solid red;
+}
+
+#tableau2 {
+    width: 90%;
+    border: 1px solid red;
+}
+
+#captcha-mockup {
+    width: 80%;
+    border: 1px solid red;
+}
+
+#graff-mockup {
+    width: 100%;
+    border: 1px solid red;
+}
+
+#myth1 {
+    width: 80%;
+    border: 1px solid red;
+}
+
+#myth2 {
+    width: 80%;
+    border: 1px solid red;
+}
+
+.title {
+    font-family: "EB Garamond" ;
+    margin-left: -20%;
+    
+    color: red;
+    margin: 10px;
+    width: 100%;
+    padding: 10px;
+}
+
+ul {
+    color: rgb(102, 102, 218);
+    padding-left: em;
+    line-height: 1.5em;
+}
+
+span {
+    width: 100%;
+    color: blue;
+    background-color: blue;
+    border: 5px;
+}
+
+
